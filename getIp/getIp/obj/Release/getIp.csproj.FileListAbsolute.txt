@@ -1,0 +1,8 @@
+D:\VS repos\getIp\getIp\bin\Release\getIp.exe.config
+D:\VS repos\getIp\getIp\bin\Release\getIp.exe
+D:\VS repos\getIp\getIp\bin\Release\getIp.pdb
+D:\VS repos\getIp\getIp\obj\Release\getIp.csproj.SuggestedBindingRedirects.cache
+D:\VS repos\getIp\getIp\obj\Release\getIp.csproj.CoreCompileInputs.cache
+D:\VS repos\getIp\getIp\obj\Release\getIp.exe
+D:\VS repos\getIp\getIp\obj\Release\getIp.pdb
+D:\VS repos\getIp\getIp\obj\Release\getIp.csproj.AssemblyReference.cache
